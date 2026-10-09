@@ -1,0 +1,22 @@
+# 环境变量 / 凭证 —— 绝不入库
+.env
+.env.*
+*.token
+config.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# 编辑器与系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 本项目运行产物
+scan-result.json
+*.log
