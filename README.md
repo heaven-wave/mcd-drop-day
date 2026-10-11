@@ -2,7 +2,7 @@
 
 > 麦当劳最容易被错过的东西，从来不是菜单上的菜。
 
-**一个把「限量周边上新、麦麦商城兑换、到期积分清算、主题活动预约」收进同一条链路的 McDonald's MCP Skill。**
+**「限量周边上新、麦麦商城兑换、到期积分清算、主题活动预约」,今天有什么能抢，我够不够格，够格就拿下收进同一条链路的 McDonald's MCP Skill。**
 
 ![MCP](https://img.shields.io/badge/MCP-Streamable%20HTTP-FF6B00) ![Python](https://img.shields.io/badge/Python-3.9+-blue) ![Region](https://img.shields.io/badge/Coverage-中国大陆-lightgrey)
 
@@ -66,7 +66,7 @@ query-party-city → query-party-store → query-partystore-date → query-party
 ### 安装本项目
 
 ```bash
-git clone https://github.com/<你的用户名>/mcd-drop-day.git
+git clone https://github.com/heaven-wave/mcd-drop-day.git
 cd mcd-drop-day
 pip install -r requirements.txt
 ```
